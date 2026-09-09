@@ -12,3 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5663d750c9e9d4448e98adc10076e8d, type: 3}
   m_Name: SniperRifle
   m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  Damage: 5
+  FireRate: 1
+  HitVFXPrefab: {fileID: 0}
